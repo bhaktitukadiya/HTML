@@ -1,0 +1,16 @@
+body
+{
+    background-color: yellow;
+}
+h1
+{
+    color: navy;
+    border: groove;
+    text-align: center;
+}
+p
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    
+}
